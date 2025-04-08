@@ -1,2 +1,1 @@
-# development
-Repository di esercitazione
+## Hello GIT
